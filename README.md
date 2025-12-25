@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Gary Vidal
+
+#### MSc in Applied Mathematics | Mathematical Engineer 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryVidalC&layout=compact)
 
 <!--
 **GaryVidalC/GaryVidalC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
