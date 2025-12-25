@@ -3,7 +3,7 @@
 #### MSc in Applied Mathematics | Mathematical Engineer 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryVidalC&layout=compact&langs_count=6&theme=defaultk&cache_seconds=1800" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=GaryVidalC&layout=compact&langs_count=6&theme=github_dark" />
 </p>
 
 
