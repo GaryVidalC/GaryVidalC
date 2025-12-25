@@ -2,7 +2,10 @@
 
 #### MSc in Applied Mathematics | Mathematical Engineer 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryVidalC&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryVidalC&layout=compact&langs_count=6&theme=defaultk&cache_seconds=1800" />
+</p>
+
 
 <!--
 **GaryVidalC/GaryVidalC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
