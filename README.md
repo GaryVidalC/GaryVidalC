@@ -2,9 +2,9 @@
 
 #### MSc in Applied Mathematics | Mathematical Engineer 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=GaryVidalC&layout=compact&langs_count=6&theme=github_dark" />
-</p>
+</p> -->
 
 
 <!--
